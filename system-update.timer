@@ -1,5 +1,5 @@
 [Unit]
-Description=Daily pacman system update
+Description=Daily system package update
 
 [Timer]
 OnCalendar=*-*-* 03:00:00
